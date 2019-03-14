@@ -3,3 +3,4 @@ insert a line.
 update a line.
 Creating a new branch is quick & simple.
 aaaaabbbbbccccc
+add merge
