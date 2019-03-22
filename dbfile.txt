@@ -1,0 +1,4 @@
+dbname=admin
+dbpwd=admin
+dburl=loaclhost
+dbport=8081
